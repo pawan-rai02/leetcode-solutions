@@ -6,4 +6,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1174-immediate-food-delivery-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
+## Array
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
