@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
