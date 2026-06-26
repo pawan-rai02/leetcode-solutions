@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -64,15 +65,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Binary Search
+|  |
+| ------- |
+| [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 <!---LeetCode Topics End-->
