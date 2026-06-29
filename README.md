@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
