@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0135-candy) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0055-jump-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -120,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -138,13 +142,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
