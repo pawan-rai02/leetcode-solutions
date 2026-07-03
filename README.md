@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
