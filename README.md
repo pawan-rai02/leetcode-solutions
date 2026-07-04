@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -130,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -144,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Enumeration
 |  |
@@ -175,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Union-Find
 |  |
