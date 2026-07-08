@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 ## Dynamic Programming
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
