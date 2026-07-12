@@ -173,6 +173,8 @@ return true;
 | 0452 | Min Arrows Burst Balloons | Interval greedy | Sort by end; intersect overlapping ranges with 1 arrow |
 | 0455 | Assign Cookies | Two-pointer greedy | Sort both; match biggest cookie to greediest child |
 | 0826 | Most Profit Assigning Work | Sort + prefix max + two ptr | Sort jobs & workers; track best profit for each ability |
+| 1331 | Rank Transform of an Array | Sort + hashmap rank | Sort copy, assign rank in order, map original elements to ranks |
+| 1432 | Max Difference Changing Integer | Greedy digit substitution | Maximize: replace first non-9 digit with 9. Minimize: replace leading digit→1, else first non-0/1→0 |
 | 1846 | Max Element After Rearranging | Sort + greedy clamp | Sort, then set each element to min(arr[i], arr[i-1]+1) |
 | 2410 | Max Matching Players & Trainers | Two-pointer greedy | Same as Assign Cookies — match strongest player to strongest trainer |
 

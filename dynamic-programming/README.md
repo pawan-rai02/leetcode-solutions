@@ -241,6 +241,7 @@ For 2D DP over m×n: **O(m×n)** time, **O(m×n)** space (often reducible to O(n
 | # | Problem | DP Type | Key Idea |
 |---|---|---|---|
 | 0329 | Longest Increasing Path in Matrix | DFS + Memo (2D) | From each cell, recurse into larger neighbors; cache path length |
+| 2901 | Longest Unequal Adjacent Groups Subsequence II | 1D DP + path reconstruction | `dp[i]` = longest valid subsequence ending at `i`; track `nxt[i]` for path reconstruction; valid = same length + Hamming distance 1 |
 | 3286 | Safe Walk Through Grid | DFS + Memo + Backtracking (3D) | State = (row, col, remaining_health); vis array for backtracking |
 
 ---

@@ -223,6 +223,7 @@ return pq.size();  // number of rooms in use
 | # | Problem | Pattern | Key Insight |
 |---|---|---|---|
 | 0057 | Insert Interval | Insert + Merge | Three-phase scan: before, overlapping, after |
+| 1288 | Remove Covered Intervals | Sort + greedy scan | Sort by start ASC, end DESC; skip interval if fully inside the current max end |
 
 ---
 

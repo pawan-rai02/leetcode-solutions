@@ -312,10 +312,22 @@ GROUP BY teacher_id;
 
 | # | Problem | Key Concept | Technique Used |
 |---|---|---|---|
+| 0196 | Delete Duplicate Emails | Self-JOIN DELETE | `DELETE p1 FROM Person p1 JOIN Person p2 ON same email AND p1.id > p2.id` |
+| 0626 | Exchange Seats | Conditional swap | `CASE WHEN id % 2 = 1 AND id+1 <= MAX THEN id+1 WHEN even THEN id-1 ELSE id` |
 | 1174 | Immediate Food Delivery II | First order per customer | CTE + ROW_NUMBER window function |
 | 1193 | Monthly Transactions I | Conditional aggregation | DATE_FORMAT + GROUP BY + CASE WHEN |
 | 1211 | Queries Quality and Percentage | Computed aggregation | CTE + AVG over derived column |
+| 1321 | Restaurant Growth | Moving 7-day window | CTE + `SUM/AVG OVER (ROWS BETWEEN 6 PRECEDING AND CURRENT ROW)` |
+| 1331 | (Moved to Greedy) | — | — |
+| 1341 | Movie Rating | Multi-result UNION | CTE + RANK window fn + UNION ALL for user and movie results |
+| 1484 | Group Sold Products by Date | String aggregation | `GROUP_CONCAT(DISTINCT product ORDER BY product)` |
+| 1517 | Find Users with Valid E-mails | Pattern matching | `REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode\.com$'` |
+| 1527 | Patients with a Condition | String prefix matching | `LIKE 'DIAB1%' OR LIKE '% DIAB1%'` |
 | 1633 | Percentage of Users Attended a Contest | Ratio with subquery | Scalar subquery in SELECT |
+| 1667 | Fix Names in a Table | String manipulation | `CONCAT(UPPER(LEFT(name,1)), LOWER(SUBSTRING(name,2)))` |
+| 1731 | Employees Reporting to Each Employee | Self-JOIN + aggregation | CTE + INNER JOIN employees to themselves on `reports_to` |
+| 1789 | Primary Department for Each Employee | Conditional filter | `WHERE primary_flag = 'Y' OR employee_id IN (single-dept employees)` |
+| 1907 | Count Salary Categories | CASE + LEFT JOIN skeleton | CTE for classification; LEFT JOIN to all-category skeleton to preserve zeros |
 | 2356 | Unique Subjects per Teacher | Count distinct | COUNT(DISTINCT) + GROUP BY |
 
 ---

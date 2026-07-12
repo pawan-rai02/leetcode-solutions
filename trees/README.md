@@ -229,8 +229,19 @@ Where n = nodes, h = height (O(log n) balanced, O(n) skewed), w = max width.
 
 | # | Problem | Pattern | Key Insight |
 |---|---|---|---|
+| 0100 | Same Tree | Recursive DFS | Simultaneously recurse both trees; check `val + left + right` match |
+| 0103 | Binary Tree Zigzag Level Order | BFS + reverse flag | BFS level-order; alternate reversing the level vector |
 | 0104 | Maximum Depth of Binary Tree | Postorder | `1 + max(leftH, rightH)` — height builds bottom-up |
+| 0110 | Balanced Binary Tree | Postorder + sentinel | Return `-1` from DFS to propagate "unbalanced" upward |
+| 0124 | Binary Tree Maximum Path Sum | Postorder + Global | Return best single-arm; update global with `left + right + val` |
+| 0199 | Binary Tree Right Side View | BFS | At each level, track the last node seen (right-most) |
+| 0222 | Count Complete Tree Nodes | Recursive counting | `1 + count(left) + count(right)` — O(n) simple recursion |
+| 0236 | Lowest Common Ancestor | Postorder | If both subtrees return non-null → current node is LCA |
 | 0543 | Diameter of Binary Tree | Postorder + Global | Return height to parent; update global diameter = `left + right` |
+| 0653 | Two Sum IV (BST) | DFS + HashSet | Traverse BST; for each node check if `k - val` is in seen set |
+| 0662 | Maximum Width of Binary Tree | BFS + index numbering | Assign indices (left=`2i+1`, right=`2i+2`); width = `last - first + 1` |
+| 0701 | Insert into BST | Iterative BST walk | Walk down using BST property until `nullptr`; insert there |
+| 0987 | Vertical Order Traversal | BFS + sorted map | BFS tracking `(row, col)`; group by col, sort by row then value |
 
 ---
 
