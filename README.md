@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
