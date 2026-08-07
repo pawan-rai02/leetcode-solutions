@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0135-candy) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
