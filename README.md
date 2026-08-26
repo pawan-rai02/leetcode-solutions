@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
