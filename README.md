@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
@@ -345,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
