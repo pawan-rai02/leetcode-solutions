@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
