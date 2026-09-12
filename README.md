@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
