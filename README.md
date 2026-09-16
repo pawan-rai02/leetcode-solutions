@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Minimax
 |  |
