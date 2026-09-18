@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0826-most-profit-assigning-work](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1755-closest-subsequence-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1755-closest-subsequence-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
