@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/pawan-rai02/leetcode-solutions/tree/master/0626-exchange-seats) |
+| [1070-product-sales-analysis-iii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1321-restaurant-growth) |
