@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
