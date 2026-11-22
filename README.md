@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
