@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/pawan-rai02/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2409-count-days-spent-together](https://github.com/pawan-rai02/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pawan-rai02/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
